@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ganiadriantio@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I like anine
+- ⚡ Fun fact: I like Doritos
 
 <!---
 Nijika21/Nijika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
