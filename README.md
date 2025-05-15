@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gani Adrian
+## 👋 Hi, I’m Gani Adrian
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning JavaScript and Python
 <!-- - 💞️ I’m looking to collaborate on ... -->
