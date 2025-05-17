@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ganiadriantio@gmail.com
 
-I like Doritos
+**I like Doritos**
 
 <!---
 Nijika21/Nijika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
