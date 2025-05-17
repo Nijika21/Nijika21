@@ -4,8 +4,10 @@
 - 👀 I’m interested on you
 
 - 🌱 I’m currently learning JavaScript, Python, and web development
+
 - 📫 How to reach me ganiadriantio@gmail.com
-- ⚡ Fun fact: I like Doritos
+
+I like Doritos
 
 <!---
 Nijika21/Nijika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
