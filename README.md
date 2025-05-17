@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m Gani Adrian
+
+![gif](https://media3.giphy.com/media/xpByaGQR1Czuv2uwht/giphy.gif?cid=6c09b952w4j3lgyta1p5uepzqihhi4ewnyn50hg36hws7o36&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
 - 👀 I’m interested on you
 
 - 🌱 I’m currently learning JavaScript and Python
